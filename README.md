@@ -22,7 +22,7 @@ char - Tek bir karakteri saklamak için kullanılır. {-128 ila 127}
 int - Tam sayıları saklamak için kullanılır. {-2147483648 ila 2147483647}
 unsigned int - Sadece pozitif tam sayı değerlerini saklar. {0 ila 4,294,967,295}
 unsigned char - {0 ila 255}
-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 %d - Tamsayıları gösterir.
 %f - Ondalık sayıları gösterir.
 %c - Karakterleri gösterir.
