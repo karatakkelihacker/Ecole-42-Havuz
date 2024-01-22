@@ -42,7 +42,7 @@ mkdir ex03
 cat ~/.ssh/id_rsa.pub >> id_rsa_pub
 
 Ex04
-ls -t -p -m
+ls -tU -m -p
 
 Ex05
 git log  --pretty='%H' -5
@@ -51,11 +51,11 @@ Ex06
 git status --ignored -s | grep '!!' | cut -f 2 -d' '
 
 Ex07
-
+patch a -o b < sw.diff
 
 Ex08
 #!/bin/sh
 find . -type f \( -name '*~' -o -name '#*#' \) -print -delete
 
 Ex09
-
+41   string      42      42 file
