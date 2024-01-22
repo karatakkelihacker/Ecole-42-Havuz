@@ -7,7 +7,7 @@ cat z
 Ex01
 mkdir ex01/
 touch testShell00
-echo "testing! Excersie 01 Go go go 42KL gogo" > testShell00
+echo "123456789012345678901234567890123456789" > testShell00
 touch -t 202106012342 testShell00
 chmod 455 testShell00
 tar -cf testShell00.tar testShell00
