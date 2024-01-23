@@ -42,10 +42,9 @@ mkdir ex03
 cat ~/.ssh/id_rsa.pub >> id_rsa_pub
 
 Ex04
-ls -tU -p -m
+ls -tmp
 
 -t = Değiştirilme tarihine göre sırala
--U = Dosya oluşturma zamanına göre sırala
 -p = Sonuna '/' koy
 -m =  Dosya ve klasörlerin arasına ',' koy
 
@@ -70,4 +69,4 @@ find . -type f \( -name '*~' -o -name '#*#' \) -print -delete
 Ex09
 41   string      42      42 file
 
-41. bayttaki 42 . dizenin 42 içeripi içermediğini kontrol eder
+42. baytında "42" stringi içeren dosyalar
