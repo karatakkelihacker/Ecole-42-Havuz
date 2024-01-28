@@ -1,21 +1,19 @@
 #include <stdio.h>
 
-int	ft_strlen(char *str)
+int	ft_strlen(char *string)
 {
 	int	i;
 
 	i = 0;
-	while (str[i] != '\0')
+	while (string[i] != '\0')
 	{
 		i++;
 	}
 	return (i);
 }
 
-int	main(void)
+int	main()
 {
-	char	*str;
-
-	str = "Hello";
+	char *str = "42Kocaeli";
 	printf("%d", ft_strlen(str));
 }
