@@ -57,10 +57,10 @@ This repository contains code developed at **42 Piscine**, from **19/09/2022** t
 
 | Exam Rank | Language | Finish Date | Grade | Time |
 | :--- | :--- | :--- | :--- | :--- |
-| Exam 00 | `C` | 30-09-2022 | <img src="https://img.shields.io/badge/48%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Exam 01 | `C` | 07-10-2022 | <img src="https://img.shields.io/badge/32%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Exam 02 | `C` | 14-10-2022 | <img src="https://img.shields.io/badge/42%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
-| Final Exam | `C` | 21-10-2022 | <img src="https://img.shields.io/badge/48%20%2F%20100%20%E2%98%85-sucess"/> | `8 hours` |
+| Exam 00 | `C` | 09-02-2024 | <img src="https://img.shields.io/badge/48%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Exam 01 | `C` | 16-02-2024 | <img src="https://img.shields.io/badge/32%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Exam 02 | `C` | 23-02-2024 | <img src="https://img.shields.io/badge/42%20%2F%20100%20%E2%98%85-sucess"/> | `4 hours` |
+| Final Exam | `C` | 01-03-2024 | <img src="https://img.shields.io/badge/48%20%2F%20100%20%E2%98%85-sucess"/> | `8 hours` |
 
 </div>
 
